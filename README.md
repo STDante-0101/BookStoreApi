@@ -1,4 +1,4 @@
-# APIWeb_ASP.NetCore_e_MongoDB
+# BookStoreApi
 
 
 Sera criado uma API Web com o ASP.NET Core e conecção com MongoDb, seguindo a documentação disponibilizada pela microsoft. 
