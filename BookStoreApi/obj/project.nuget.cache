@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0q6Kh6/glJlbxjobDLGTqU5C8WK3A2bQo5yCn5ojXzIKKJQnyI8NTtXWApXEoZUwDes7vJeEDD9skYMgs7gxMA==",
+  "dgSpecHash": "H6XZXdbK9/z4PkGP4N6Qr+FZwsE3cnQAukw9nZVGsSkyaD9c39Qw3LtAVz6XqSWVxvB5hRS+WSEWhVT0Jpc3nw==",
   "success": true,
-  "projectFilePath": "D:\\ProjetosCNet\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+  "projectFilePath": "D:\\RepositorioLocal\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Arthas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
