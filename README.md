@@ -1,9 +1,12 @@
 # BookStoreApi
 
 
- API Web criada com o ASP.NET Core e conecção com MongoDb, seguindo a documentação disponibilizada pela microsoft. 
+API Web criada com o ASP.NET Core e conecção com MongoDb, seguindo a documentação disponibilizada pela microsoft. 
 
-Esta previsto para este projeto executar operações do CRUD em um banco de Dados NoSQL do MongoDb
+Esta previsto para este projeto executar operações do CRUD em um banco de Dados NoSQL do MongoDb.
+
+
+--------------------------------------------------Documentação-------------------------------------------------------
 
 Link da documentação: https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-8.0&source=recommendations&tabs=visual-studio
 
